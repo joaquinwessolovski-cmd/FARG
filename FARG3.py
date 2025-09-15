@@ -11,8 +11,6 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 from matplotlib.figure import Figure
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-import os
 
 # Cargar datos
 data = pd.read_csv("Partidos 2024-2025.csv")
