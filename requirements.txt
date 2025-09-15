@@ -4,5 +4,3 @@ scipy
 matplotlib
 streamlit
 openpyxl
-math
-os
