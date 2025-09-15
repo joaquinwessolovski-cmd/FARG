@@ -4,6 +4,7 @@
 
 import pandas as pd
 import numpy as np
+import scipy
 from scipy.optimize import minimize
 from scipy.stats import poisson
 import math
