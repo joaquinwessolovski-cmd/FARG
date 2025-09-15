@@ -1,0 +1,286 @@
+﻿HomeTeam,AwayTeam,HomeGoals,AwayGoals
+Aldosivi,Banfield,2,1
+Aldosivi,Barracas Central,1,3
+Aldosivi,Central Córdoba (SdE),0,0
+Aldosivi,Defensa y Justicia,0,5
+Aldosivi,Estudiantes (LP),2,2
+Aldosivi,Racing Club,0,2
+Aldosivi,Sarmiento (J),2,2
+Aldosivi,Tigre,0,2
+Aldosivi,Unión,2,1
+Argentinos Juniors,Aldosivi,0,2
+Argentinos Juniors,Barracas Central,3,0
+Argentinos Juniors,Boca Juniors,0,0
+Argentinos Juniors,Defensa y Justicia,4,1
+Argentinos Juniors,Estudiantes (LP),4,0
+Argentinos Juniors,Huracán,1,1
+Argentinos Juniors,Independiente Rivadavia,0,0
+Argentinos Juniors,Instituto,2,0
+Argentinos Juniors,Platense,1,0
+Argentinos Juniors,Tigre,1,0
+Atlético Tucumán,Central Córdoba (SdE),1,1
+Atlético Tucumán,Deportivo Riestra,0,3
+Atlético Tucumán,Gimnasia y Esgrima (LP),0,1
+Atlético Tucumán,Independiente,2,0
+Atlético Tucumán,Instituto,3,2
+Atlético Tucumán,Lanús,1,0
+Atlético Tucumán,Newell's Old Boys,1,2
+Atlético Tucumán,San Martín (SJ),2,1
+Atlético Tucumán,Sarmiento (J),5,0
+Atlético Tucumán,Vélez Sarsfield,1,2
+Banfield,Argentinos Juniors,1,2
+Banfield,Belgrano,1,1
+Banfield,Boca Juniors,0,1
+Banfield,Central Córdoba (SdE),3,1
+Banfield,Defensa y Justicia,0,0
+Banfield,Huracán,0,0
+Banfield,Independiente,0,0
+Banfield,Independiente Rivadavia,1,1
+Banfield,Newell's Old Boys,3,0
+Barracas Central,Banfield,1,0
+Barracas Central,Central Córdoba (SdE),3,3
+Barracas Central,Estudiantes (LP),2,1
+Barracas Central,Godoy Cruz,1,2
+Barracas Central,Independiente Rivadavia,0,3
+Barracas Central,Newell's Old Boys,2,0
+Barracas Central,Racing Club,1,3
+Barracas Central,Tigre,1,0
+Barracas Central,Unión,2,1
+Belgrano,Aldosivi,2,0
+Belgrano,Argentinos Juniors,1,1
+Belgrano,Barracas Central,1,1
+Belgrano,Boca Juniors,1,3
+Belgrano,Defensa y Justicia,2,0
+Belgrano,Huracán,1,1
+Belgrano,Independiente Rivadavia,0,3
+Belgrano,Racing Club,0,1
+Belgrano,Talleres (C),1,1
+Boca Juniors,Aldosivi,2,1
+Boca Juniors,Argentinos Juniors,0,0
+Boca Juniors,Barracas Central,1,0
+Boca Juniors,Defensa y Justicia,4,0
+Boca Juniors,Estudiantes (LP),2,0
+Boca Juniors,Huracán,2,1
+Boca Juniors,Independiente Rivadavia,2,0
+Boca Juniors,Rosario Central,1,0
+Boca Juniors,Unión,1,1
+Central Córdoba (SdE),Aldosivi,1,0
+Central Córdoba (SdE),Argentinos Juniors,1,1
+Central Córdoba (SdE),Atlético Tucumán,2,0
+Central Córdoba (SdE),Belgrano,4,0
+Central Córdoba (SdE),Boca Juniors,0,3
+Central Córdoba (SdE),Deportivo Riestra,0,0
+Central Córdoba (SdE),Huracán,1,2
+Central Córdoba (SdE),Independiente Rivadavia,1,2
+Central Córdoba (SdE),Newell's Old Boys,2,0
+Defensa y Justicia,Aldosivi,2,0
+Defensa y Justicia,Banfield,0,1
+Defensa y Justicia,Barracas Central,1,1
+Defensa y Justicia,Central Córdoba (SdE),2,1
+Defensa y Justicia,Estudiantes (LP),1,0
+Defensa y Justicia,Racing Club,1,2
+Defensa y Justicia,Tigre,1,2
+Defensa y Justicia,Unión,0,0
+Deportivo Riestra,Defensa y Justicia,1,1
+Deportivo Riestra,Godoy Cruz,3,0
+Deportivo Riestra,Lanús,1,0
+Deportivo Riestra,Platense,1,0
+Deportivo Riestra,River Plate,0,0
+Deportivo Riestra,Rosario Central,0,0
+Deportivo Riestra,San Lorenzo,0,0
+Deportivo Riestra,San Martín (SJ),0,0
+Deportivo Riestra,Talleres (C),0,0
+Estudiantes (LP),Banfield,1,0
+Estudiantes (LP),Belgrano,0,1
+Estudiantes (LP),Central Córdoba (SdE),3,2
+Estudiantes (LP),Huracán,2,1
+Estudiantes (LP),Newell's Old Boys,1,1
+Estudiantes (LP),Racing Club,2,0
+Estudiantes (LP),Tigre,0,0
+Estudiantes (LP),Unión,3,1
+Gimnasia y Esgrima (LP),Deportivo Riestra,1,1
+Gimnasia y Esgrima (LP),Estudiantes (LP),1,1
+Gimnasia y Esgrima (LP),Godoy Cruz,3,0
+Gimnasia y Esgrima (LP),Instituto,0,1
+Gimnasia y Esgrima (LP),Platense,1,0
+Gimnasia y Esgrima (LP),River Plate,0,3
+Gimnasia y Esgrima (LP),San Lorenzo,0,2
+Gimnasia y Esgrima (LP),San Martín (SJ),1,0
+Gimnasia y Esgrima (LP),Sarmiento (J),0,0
+Godoy Cruz,Atlético Tucumán,1,0
+Godoy Cruz,Independiente Rivadavia,1,1
+Godoy Cruz,Lanús,0,0
+Godoy Cruz,Platense,1,1
+Godoy Cruz,River Plate,0,0
+Godoy Cruz,Rosario Central,0,3
+Godoy Cruz,San Lorenzo,0,0
+Godoy Cruz,Sarmiento (J),0,0
+Godoy Cruz,Talleres (C),0,0
+Huracán,Aldosivi,3,3
+Huracán,Barracas Central,0,1
+Huracán,Belgrano,0,3
+Huracán,Defensa y Justicia,1,1
+Huracán,Estudiantes (LP),0,0
+Huracán,Independiente Rivadavia,2,0
+Huracán,San Lorenzo,2,0
+Huracán,Tigre,2,0
+Huracán,Unión,1,0
+Independiente,Deportivo Riestra,0,0
+Independiente,Gimnasia y Esgrima (LP),2,0
+Independiente,Godoy Cruz,4,0
+Independiente,Instituto,2,0
+Independiente,Racing Club,1,1
+Independiente,San Martín (SJ),2,0
+Independiente,Sarmiento (J),2,1
+Independiente,Talleres (C),1,2
+Independiente,Vélez Sarsfield,3,0
+Independiente Rivadavia,Aldosivi,1,0
+Independiente Rivadavia,Barracas Central,0,0
+Independiente Rivadavia,Defensa y Justicia,3,2
+Independiente Rivadavia,Estudiantes (LP),2,2
+Independiente Rivadavia,Lanús,1,1
+Independiente Rivadavia,Newell's Old Boys,1,2
+Independiente Rivadavia,Racing Club,2,1
+Independiente Rivadavia,Tigre,1,4
+Independiente Rivadavia,Unión,2,0
+Instituto,Deportivo Riestra,3,0
+Instituto,Gimnasia y Esgrima (LP),3,0
+Instituto,Godoy Cruz,1,1
+Instituto,River Plate,0,4
+Instituto,San Lorenzo,0,1
+Instituto,San Martín (SJ),1,0
+Instituto,Sarmiento (J),1,1
+Instituto,Vélez Sarsfield,2,0
+Lanús,Banfield,1,1
+Lanús,Deportivo Riestra,0,2
+Lanús,Gimnasia y Esgrima (LP),0,0
+Lanús,Independiente,1,1
+Lanús,Instituto,4,1
+Lanús,Rosario Central,0,1
+Lanús,San Martín (SJ),1,0
+Lanús,Sarmiento (J),2,0
+Lanús,Vélez Sarsfield,0,0
+Newell's Old Boys,Aldosivi,1,0
+Newell's Old Boys,Argentinos Juniors,0,0
+Newell's Old Boys,Banfield,1,2
+Newell's Old Boys,Belgrano,0,0
+Newell's Old Boys,Boca Juniors,2,0
+Newell's Old Boys,Defensa y Justicia,0,1
+Newell's Old Boys,Huracán,2,0
+Newell's Old Boys,Independiente Rivadavia,0,1
+Newell's Old Boys,Rosario Central,1,2
+Platense,Atlético Tucumán,2,1
+Platense,Defensa y Justicia,0,1
+Platense,Independiente,1,1
+Platense,Instituto,1,0
+Platense,Lanús,0,0
+Platense,River Plate,1,1
+Platense,Rosario Central,0,0
+Platense,Talleres (C),2,1
+Platense,Vélez Sarsfield,0,0
+Racing Club,Argentinos Juniors,2,3
+Racing Club,Banfield,4,1
+Racing Club,Barracas Central,0,1
+Racing Club,Belgrano,4,0
+Racing Club,Boca Juniors,2,0
+Racing Club,Central Córdoba (SdE),1,0
+Racing Club,Huracán,0,1
+Racing Club,Newell's Old Boys,1,0
+River Plate,Atlético Tucumán,1,0
+River Plate,Boca Juniors,2,1
+River Plate,Estudiantes (LP),0,2
+River Plate,Independiente,2,0
+River Plate,Instituto,1,0
+River Plate,Lanús,1,0
+River Plate,Platense,3,1
+River Plate,Rosario Central,2,2
+River Plate,Talleres (C),1,1
+River Plate,Vélez Sarsfield,4,1
+Rosario Central,Atlético Tucumán,3,1
+Rosario Central,Gimnasia y Esgrima (LP),2,1
+Rosario Central,Godoy Cruz,1,1
+Rosario Central,Independiente,1,0
+Rosario Central,Instituto,3,0
+Rosario Central,Lanús,2,1
+Rosario Central,Sarmiento (J),1,0
+Rosario Central,Vélez Sarsfield,2,1
+San Lorenzo,Atlético Tucumán,1,0
+San Lorenzo,Gimnasia y Esgrima (LP),0,0
+San Lorenzo,Independiente,1,2
+San Lorenzo,Lanús,1,1
+San Lorenzo,Platense,2,1
+San Lorenzo,Racing Club,3,2
+San Lorenzo,River Plate,0,0
+San Lorenzo,Rosario Central,0,1
+San Lorenzo,Talleres (C),1,0
+San Martín (SJ),Aldosivi,0,3
+San Martín (SJ),Atlético Tucumán,0,1
+San Martín (SJ),Belgrano,3,1
+San Martín (SJ),Deportivo Riestra,3,2
+San Martín (SJ),Godoy Cruz,1,0
+San Martín (SJ),Platense,0,2
+San Martín (SJ),River Plate,0,2
+San Martín (SJ),Rosario Central,0,0
+San Martín (SJ),San Lorenzo,0,1
+San Martín (SJ),Talleres (C),0,1
+Sarmiento (J),Barracas Central,1,1
+Sarmiento (J),Deportivo Riestra,2,1
+Sarmiento (J),Godoy Cruz,0,0
+Sarmiento (J),Independiente,2,2
+Sarmiento (J),Platense,0,1
+Sarmiento (J),River Plate,1,1
+Sarmiento (J),San Lorenzo,1,1
+Sarmiento (J),San Martín (SJ),1,1
+Sarmiento (J),Talleres (C),0,0
+Talleres (C),Atlético Tucumán,1,1
+Talleres (C),Gimnasia y Esgrima (LP),2,0
+Talleres (C),Independiente,2,3
+Talleres (C),Instituto,1,2
+Talleres (C),Lanús,0,1
+Talleres (C),Rosario Central,0,0
+Talleres (C),San Lorenzo,1,2
+Talleres (C),Tigre,1,2
+Talleres (C),Vélez Sarsfield,0,1
+Tigre,Argentinos Juniors,2,1
+Tigre,Banfield,1,0
+Tigre,Belgrano,0,0
+Tigre,Boca Juniors,1,1
+Tigre,Central Córdoba (SdE),1,2
+Tigre,Newell's Old Boys,0,2
+Tigre,Racing Club,1,0
+Tigre,Unión,1,0
+Tigre,Vélez Sarsfield,3,0
+Unión,Argentinos Juniors,0,1
+Unión,Banfield,3,1
+Unión,Belgrano,1,1
+Unión,Boca Juniors,1,1
+Unión,Central Córdoba (SdE),1,0
+Unión,Estudiantes (LP),1,0
+Unión,Gimnasia y Esgrima (LP),1,0
+Unión,Instituto,0,0
+Unión,Newell's Old Boys,1,1
+Unión,Racing Club,0,1
+Vélez Sarsfield,Deportivo Riestra,0,1
+Vélez Sarsfield,Gimnasia y Esgrima (LP),1,0
+Vélez Sarsfield,Godoy Cruz,0,2
+Vélez Sarsfield,Huracán,0,2
+Vélez Sarsfield,Platense,0,1
+Vélez Sarsfield,San Lorenzo,0,0
+Vélez Sarsfield,San Martín (SJ),1,0
+Vélez Sarsfield,Sarmiento (J),0,1
+Vélez Sarsfield,Tigre,2,1
+Aldosivi,Newell's Old Boys,0,0
+Banfield,Barracas Central,1,3
+Central Córdoba (SdE),Defensa y Justicia,2,1
+Deportivo Riestra,Atlético Tucumán,1,0
+Gimnasia y Esgrima (LP),Independiente,1,0
+Huracán,Boca Juniors,1,0
+Independiente Rivadavia,Belgrano,0,0
+Platense,Argentinos Juniors,0,0
+Racing Club,Estudiantes (LP),0,1
+River Plate,San Lorenzo,0,0
+Rosario Central,San Martín (SJ),0,0
+Sarmiento (J),Lanús,0,2
+Talleres (C),Godoy Cruz,0,0
+Unión,Tigre,0,0
+Vélez Sarsfield,Instituto,0,0
